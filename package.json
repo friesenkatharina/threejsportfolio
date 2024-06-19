@@ -2,7 +2,7 @@
   "name": "your-app-name",
   "version": "0.1.0",
   "private": true,
-
+  "homepage": "https://github.com/friesenkatharina/threejsportfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
