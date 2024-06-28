@@ -121,7 +121,7 @@ function Hero() {
               </Sphere>
             </Suspense>
           </Canvas>
-          <Img src="./img/moon.png" />
+          <Img src="./img/file.png" />
         </Right>
       </Container>
     </Section>
